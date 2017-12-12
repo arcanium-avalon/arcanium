@@ -14,8 +14,7 @@ being leveled at the same rate.  Learning will only be accomplished once all ski
 input into the bot, along with enough lessons to gain the next full skill rank.  As such, it will 
 quite some time before the bot will be ready to actually learn.
 
-A bronze subscription may need to be purchased to appease the game creators once they figure out
-what I am trying to do.  
+A bronze subscription may need to be purchased.
 
 The tools being utilized for this project are:
 G-mail: for character registration and communication.
