@@ -38,3 +38,7 @@ A split screen approach will be taken with Mudlet.  On the left, 100 Columns dis
 from the Multi-User Dungeon. On the right side of the screen, metrics and statuses will be displyed 
 for live troubleshooting.  A timer will echo the current status of the character, for logging
 review purposes.
+
+A secondary purpose of this project is to write a story about the life of Arcanium, as it develops
+through the bots travels through the land.  These can be updated into the game's Bulletin Board as
+the character progresses through the game.
