@@ -3,6 +3,7 @@
 I am Arcanium, the Mad Mage of Avalon.
 
 MISSON STATEMENT: To create a bot that is fully capable of playing Avalon.
+
 PURPOSE STATEMENT: To learn more about coding and hopefully bring CCC life to the game.
 
 The goal of this code is to play avalon without any human input of code beyond accessing help files 
