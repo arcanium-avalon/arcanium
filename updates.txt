@@ -4,13 +4,21 @@ Updates will be in reverse chronological order, with the latest updates at the t
 will allow anyone reviewing to quickly see the latest changes without scrolling.
 ----------------------------------------------------------------------------------------------------
 
-
-
 2017-12-12:
- - This update file was created for use.  
+Triggers Created:
+  - 0001 - Novice Chapter Progression #1
+  - 0002 - Novice Chapter Progression #2
+
+Timers Created:
+  - 0001 - End of Two Hours
+  - 0002 - One Hour Warning
+
+EXAMPLE:
+2017-12-12:
+ - This update file was created for use.
  - The date format is year, month, day.
  - One update per dash "-"
  - A blank line will be left between the end of an update and the following date.
- 
+
 2017-12-11
  - The idea for this project was initialized.
